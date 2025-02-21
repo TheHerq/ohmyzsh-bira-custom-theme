@@ -1,4 +1,4 @@
-# ohmyzsh-bira-custome-theme
+# ohmyzsh-bira-custom-theme
 
 
 > If you don't have Oh My Zsh installed yet, visit https://ohmyz.sh/ to find all the information on how to install it on your computer.  
